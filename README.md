@@ -11,4 +11,4 @@ Currently, two official plugins are available:
 2. cd react_app
 3. npm install
 4. npm run dev
-5.
+5. npm run build
