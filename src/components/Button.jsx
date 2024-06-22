@@ -5,7 +5,7 @@ const ButtonClick = () => {
   console.log("Button was clicked!") 
 }
 
-  return <button onClick = {ButtonClick} type = {props.type}>{props.text}</button>
+  return <button onClick={ButtonClick} type={props.type}>{props.text}</button>
 }
 
 

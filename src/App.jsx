@@ -6,8 +6,8 @@ const App = () => {
   return (
     <div>
     <h1>Hello React</h1>
-    <Button text = "Submit button" type = "submit"/>
-    <Input placeholder = "Enter your name" type = "text"/>
+    <Button text="Submit button" type="submit"/>
+    <Input placeholder="Enter your name" type="text"/>
     </div>
   )
 }

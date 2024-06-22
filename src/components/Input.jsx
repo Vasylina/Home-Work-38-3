@@ -5,7 +5,7 @@ console.log(props)
     console.log("Input was changed!")
   }
 
-  return <input onChange={InputChange} type= {props.type} placeholder = {props.placeholder} />
+  return <input onChange={InputChange} type={props.type} placeholder={props.placeholder}/>
 }
 
 export default Input
